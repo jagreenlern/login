@@ -1,0 +1,24 @@
+{
+    "name": "empresa/proyecto",
+    "require": {
+    "phpmailer/phpmailer": "5.2.*",
+    "raveren/kint": "0.9.*@dev",
+
+"google/apiclient": "2.8",
+
+"kertz/twitteroauth": "dev-master",
+"nette/application": "3.0",
+"venca-x/social-login": "1.2.5"
+
+    
+    },
+
+"scripts": {
+        "pre-autoload-dump": "Google\\Task\\Composer::cleanup"
+    }
+    
+
+
+    
+    }
+    

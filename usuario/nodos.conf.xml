@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuraciones>
+<configuracion><controllerdefault>productoController</controllerdefault>
+<actiondefault>index</actiondefault>
+<idioma>es</idioma>
+<fondo>negro</fondo>
+<letra></letra>
+</configuracion>
+</configuraciones>

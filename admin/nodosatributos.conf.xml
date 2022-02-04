@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuraciones>
+<configuracion>
+<baseurl>/trabajo/login/</baseurl>
+<controllerdefault>productoController</controllerdefault>
+<actiondefault>index</actiondefault>
+
+<idioma>es</idioma>
+<fondo>negro</fondo>
+<letras>blanco</letras>
+<rol atributo="valor atributo 1" atributo2="valor atributo 2 del nodo 1">admin</rol>
+</configuracion>
+<configuracion>
+<baseurl>/trabajo/login/</baseurl>
+<controllerdefault>productoController</controllerdefault>
+<actiondefault>index</actiondefault>
+
+<idioma>es</idioma>
+<fondo>negro</fondo>
+<letras>blanco</letras>
+<rol atributo="valor atributo 1" atributo2="valor atributo 2 del nodo 1">usuario</rol>
+</configuracion>
+</configuraciones>

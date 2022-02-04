@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<configuraciones>
+<configuracion>
+<baseurl>/trabajo/login/</baseurl>
+<controllerdefault>productoController</controllerdefault>
+<actiondefault>index</actiondefault>
+
+<idioma>es</idioma>
+<fondo>negro</fondo>
+<letras>blanco</letras>
+<rol>admin</rol>
+</configuracion>
+<configuracion>
+<baseurl>/trabajo/login/</baseurl>
+<controllerdefault>productoController</controllerdefault>
+<actiondefault>index</actiondefault>
+
+<idioma>es</idioma>
+<fondo>negro</fondo>
+<letras>blanco</letras>
+<rol>usuario</rol>
+</configuracion>
+</configuraciones>
